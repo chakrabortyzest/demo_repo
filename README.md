@@ -3,7 +3,6 @@
 Some description
 
 
-
 ## Sub header
 
 
@@ -18,3 +17,4 @@ again !!
 ## Local Development
 
 1. Open index.html in your broeser
+2. Have Fun
